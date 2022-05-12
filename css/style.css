@@ -1,0 +1,92 @@
+.border{
+    border: 3px solid lightgrey;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.custom-img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+a{
+    font-size: 35px;
+    color: lightgrey;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+}
+
+.a-black{
+    color: black;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+}
+
+h1,h2{
+    font-weight:normal;
+    font-family: Arial;
+}
+
+p{
+    font-family: Arial;
+}
+
+.margin-staccato{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.pallini-centrati{
+    text-align: center;
+}
+
+.custom-sotto{
+    padding-bottom: 3%;
+    border-bottom: 3px solid lightgrey;
+}
+
+.custom-sopra{
+    padding-top: 3%;
+}
+
+.bg-green{
+    background-color: rgba(68, 212, 25, 0.908);
+    color: white;
+    padding-left: 1.5%;
+    width: 6.5%;
+}
+
+.continua{
+    display: inline-block;
+}
+
+.custom-bottom-border{
+    padding-bottom: 10%;
+    border-bottom: 3px solid lightgrey;
+}
+
+.black-border{
+    border: 3px solid black;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.a-dettagli{
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+}
